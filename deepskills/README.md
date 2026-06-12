@@ -2,7 +2,6 @@
 
 **Student:** Arthi-2005
 **Program:** Java FSE React
-**Submission Date:** 11-06-2026
 
 ---
 
